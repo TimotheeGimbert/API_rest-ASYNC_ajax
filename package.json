@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "APIrest",
+  "version": "1.0.0",
+  "main": "fetch.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
